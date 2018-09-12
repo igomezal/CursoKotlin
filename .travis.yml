@@ -3,7 +3,6 @@ android:
   components:
     - android-27
     - build-tools-27.0.3
-    - extra-android-support-support-annotations-27.0.0
     - extra-android-support-27.0.0
     - extra-google-m2repository-27.0.0
     - extra-android-m2repository-27.0.0

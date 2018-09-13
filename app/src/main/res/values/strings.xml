@@ -16,4 +16,5 @@
     <string name="button_click_multi_3">Multiple Button 3</string>
     <string name="button_by_id">Button by FindViewByID</string>
     <string name="button_by_kat">Button by KAT</string>
+    <string name="button_image_loader">Load images</string>
 </resources>

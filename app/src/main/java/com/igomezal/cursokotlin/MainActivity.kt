@@ -35,6 +35,8 @@ class MainActivity : AppCompatActivity() {
         btnSharedPreferences.setOnClickListener{ goToSharedPreferencesActivity() }
         btnExtensionFunctions.setOnClickListener{ goToExtensionFunctionsActivity() }
 
+        showToast()
+        showSnackBar()
     }
 
     fun showToast() {

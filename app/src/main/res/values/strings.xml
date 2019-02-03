@@ -17,4 +17,9 @@
     <string name="button_by_id">Button by FindViewByID</string>
     <string name="button_by_kat">Button by KAT</string>
     <string name="button_image_loader">Load images</string>
+    <string name="button_intent_extras">Intent With Extras</string>
+    <string name="button_intent_flags">Intent With Flags</string>
+    <string name="button_intent_object">Intent With Object</string>
+    <string name="button_back">Back</string>
+    <string name="developer">Developer</string>
 </resources>
